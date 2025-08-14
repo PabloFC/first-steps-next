@@ -2,8 +2,8 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
  title: 'princing page',
- description: 'SEO Description',
- keywords:'Esta es la pagina de precios',
+ description: 'Esta es la pagina de precios',
+
 };
 
 
